@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgoraDemo</string>
+
+    <string name="app_id">9803fad3aaa74ac4a7afe2d8675614ab</string>
+    <string name="agora_token">7fd667e7aafa4da187c78291a43dfc20</string>
+
+</resources>
