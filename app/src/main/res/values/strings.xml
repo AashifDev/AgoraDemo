@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">AgoraDemo</string>
 
-    <string name="app_id">9803fad3aaa74ac4a7afe2d8675614ab</string>
+    <string name="app_id">f50052a76a4a4b44a34939b95483637f</string>
     <string name="agora_token">7fd667e7aafa4da187c78291a43dfc20</string>
+    <string name="temp_token">007eJxTYPiVxnK80zRCXNr68PFHztwT9wkZf9y4NnX906Q9q6cdXaSuwGBpYWCclphinJiYaG6SmGySaJ6YlmqUYmFmbmpmaJKYdCXoRUpDICODllkPMyMDBIL4Qgxl+ZnJqWplmSmp+c4ZiXl5qTkMDACBsSXj</string>
+    <string name="channel_name">voice_channel</string>
 
 </resources>
